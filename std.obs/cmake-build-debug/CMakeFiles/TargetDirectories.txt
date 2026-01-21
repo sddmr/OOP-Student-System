@@ -1,0 +1,3 @@
+/Users/sdmr/Desktop/folders/cpp_lesson/cmake-build-debug/CMakeFiles/cpp_lesson.dir
+/Users/sdmr/Desktop/folders/cpp_lesson/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sdmr/Desktop/folders/cpp_lesson/cmake-build-debug/CMakeFiles/rebuild_cache.dir
